@@ -1,0 +1,7 @@
+.pixi/
+.virtual_documents/
+.ipynb_checkpoints/
+*.mp4
+.DS_Store
+*.pyc
+__pycache__/
